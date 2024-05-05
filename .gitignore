@@ -11,6 +11,8 @@
 migrate_working_dir/
 .env
 
+api_key.txt
+
 # IntelliJ related
 *.env
 *.iml
